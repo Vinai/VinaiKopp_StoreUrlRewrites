@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <VinaiKopp_StoreUrlRewrites>
+            <version>0.1.0</version>
+        </VinaiKopp_StoreUrlRewrites>
+    </modules>
+    <global>
+        <models>
+            <vinaikopp_storeurlrewrites>
+                <class>VinaiKopp_StoreUrlRewrites_Model</class>
+            </vinaikopp_storeurlrewrites>
+        </models>
+        <helpers>
+            <vinaikopp_storeurlrewrites>
+                <class>VinaiKopp_StoreUrlRewrites_Helper</class>
+            </vinaikopp_storeurlrewrites>
+        </helpers>
+        <request_rewrite>
+            <model>vinaikopp_storeurlrewrites/url_rewrite_request</model>
+        </request_rewrite>
+    </global>
+</config>

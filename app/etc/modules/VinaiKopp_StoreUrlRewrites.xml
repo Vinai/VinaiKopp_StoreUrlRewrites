@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <VinaiKopp_StoreUrlRewrites>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Catalog/>
+                <Mage_Index/>
+            </depends>
+        </VinaiKopp_StoreUrlRewrites>
+    </modules>
+</config>
