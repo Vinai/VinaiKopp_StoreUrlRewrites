@@ -4,8 +4,8 @@ This extension fixes a couple of bugs in the ```core/url_rewrite_request```model
 
 Facts
 -----
-- version: check the [config.xml](https://github.com/Vinai/VinaiKopp_StoreUrlRewrites/blob/master/app/code/community/Netzarbeiter/StoreUrlRewrites/etc/config.xml)
-- extension key: Netzarbeiter_StoreUrlRewrites
+- version: check the [config.xml](https://github.com/Vinai/VinaiKopp_StoreUrlRewrites/blob/master/app/code/community/VinaiKopp/StoreUrlRewrites/etc/config.xml)
+- extension key: VinaiKopp_StoreUrlRewrites
 - Magento Connect 1.0 extension key: - none -
 - Magento Connect 2.0 extension key: - none - 
 - [extension on GitHub](https://github.com/Vinai/VinaiKopp_StoreUrlRewrites)
