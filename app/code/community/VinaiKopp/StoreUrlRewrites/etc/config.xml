@@ -11,11 +11,6 @@
                 <class>VinaiKopp_StoreUrlRewrites_Model</class>
             </vinaikopp_storeurlrewrites>
         </models>
-        <helpers>
-            <vinaikopp_storeurlrewrites>
-                <class>VinaiKopp_StoreUrlRewrites_Helper</class>
-            </vinaikopp_storeurlrewrites>
-        </helpers>
         <request_rewrite>
             <model>vinaikopp_storeurlrewrites/url_rewrite_request</model>
         </request_rewrite>
