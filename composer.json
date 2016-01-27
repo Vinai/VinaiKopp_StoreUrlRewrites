@@ -1,0 +1,16 @@
+{
+    "name": "mothership/vinai-kopp_store_url_rewrites",
+    "description": "This extension fixes a couple of bugs in the core/url_rewrite_requestmodel.",
+    "license": "OSL - Open Software Licence 3.0",
+    "authors": [
+        {
+            "name": "Vinai Kopp",
+            "email": "vinai@netzarbeiter.com"
+        },
+        {
+            "name": "Maurizio Brioschi",
+            "email": "brioschi@mothership.de"
+        }
+    ],
+    "require": {}
+}
