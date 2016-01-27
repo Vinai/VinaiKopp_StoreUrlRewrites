@@ -12,5 +12,7 @@
             "email": "brioschi@mothership.de"
         }
     ],
-    "require": {}
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
 }
