@@ -1,7 +1,6 @@
 {
     "name": "netzarbeiter/vinai-kopp_store_url_rewrites",
     "type": "magento-module",
-    "version": "dev-master",
     "description": "This extension fixes a couple of bugs in the core/url_rewrite_requestmodel.",
     "license": "OSL-3.0",
     "authors": [
@@ -11,6 +10,6 @@
         }
     ],
     "require": {
-        "magento-hackathon/magento-composer-installer": "*"
+        "magento-hackathon/magento-composer-installer": "^1"
     }
 }
