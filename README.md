@@ -1,3 +1,7 @@
+# This Magento 1 extension is orphaned, unsupported and no longer maintained.
+
+If you use it, you are effectively adopting the code for your own project.
+
 Store Level URL Rewrite Matching Fix
 ================
 This extension fixes a couple of bugs in the ```core/url_rewrite_request```model.
